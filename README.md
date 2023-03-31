@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @kruzes1
-- 👀 I’m interested in Cloud Computing and Automation
+- 👋 Hi, I’m Prakash Agarwal
+- 👀 I’m interested in Cloud Computing and DevOps Automation
 - 🌱 I’m currently learning JavaScript and Python Scripting
 - 💞️ I’m looking to collaborate on Python and JavaScript Product Based Projects
 - 📫 How to reach me : mail me @ mojikaprakash99@gmail.com or connect to me, https://www.linkedin.com/in/prakashag/
